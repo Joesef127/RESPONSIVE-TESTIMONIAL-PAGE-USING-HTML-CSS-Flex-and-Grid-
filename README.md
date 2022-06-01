@@ -27,8 +27,8 @@ Screenshots/tablet-view.png
 Screenshots/desktop-view.png
 
 ### Links
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/Joesef127/RESPONSIVE-TESTIMONIAL-PAGE-USING-HTML-CSS-Flex-and-Grid-.git)
+- Live Site URL: (https://testimonygridsection.netlify.app/)
 
 ### Built with
 
